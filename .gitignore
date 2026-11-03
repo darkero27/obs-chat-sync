@@ -1,0 +1,22 @@
+# Build artifacts
+*.obj
+*.exp
+*.lib
+!src/lib/*.lib
+*.tmp
+*.bak
+*.pdb
+*.ilk
+
+# Release binaries directory (distribute via GitHub Releases instead)
+release/
+dist/
+
+# Visual Studio / IDE
+.vs/
+*.vcxproj.user
+*.suo
+
+# OS
+Thumbs.db
+Desktop.ini
