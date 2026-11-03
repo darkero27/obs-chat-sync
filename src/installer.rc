@@ -1,0 +1,5 @@
+#define IDR_DLL_FILE 101
+
+IDR_DLL_FILE RCDATA "..\\bin\\64bit\\obs-chat-sync.dll"
+
+1 24 "installer.manifest"
