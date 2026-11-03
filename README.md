@@ -1,16 +1,16 @@
-# OBS Auto Chat Browser Source Sync
+# OBS Youtube Auto Live Chat Browser Source Sync
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20(x64)-brightgreen.svg)](https://github.com/darkero27/obs-chat-sync/releases/tag/v1.0.0)
 [![OBS Studio](https://img.shields.io/badge/OBS%20Studio-30%20|%2031%20|%2032+-orange.svg)](https://obsproject.com)
 
-OBS Auto Chat Sync is an open-source tool and plugin for OBS Studio that automatically injects your live stream chat link (such as YouTube Live Chat) into a designated Browser Source overlay every time you start streaming, and cleanly resets it to about:blank when streaming ends.
+OBS Youtube Auto Live Chat Browser Source Sync is an open-source tool and plugin for OBS Studio that automatically injects your Youtube live stream chat link into a designated Browser Source overlay every time you start streaming, and cleanly resets it to about:blank when streaming ends.
 
 ---
 
 ## The Problem It Solves
 
-When streaming on YouTube and using an on-screen live chat or CSS livechat overlay, you usually have to manually copy the new live chat popout link and paste it into your OBS Browser Source before every stream. With OBS Auto Chat Sync, you never have to manually copy-paste live chat URLs again!
+When streaming on YouTube and using an sources live chat or CSS livechat overlay, you usually have to manually copy the new live chat popoup link and paste it into your OBS Browser Source before every stream. With OBS Auto Chat Sync, you never have to manually copy-paste live chat URLs again!
 
 ---
 
